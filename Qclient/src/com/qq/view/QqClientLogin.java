@@ -54,13 +54,11 @@ public class QqClientLogin extends JFrame {
 		jp2.add(jp2_jcb1);
 		jp2.add(jp2_jcb2);
 		jp2.add(jp2_jbl4);
-		
+
 		jp3 = new JPanel();
-		
-		
+
 		jp4 = new JPanel();
-		
-		
+
 		jtp = new JTabbedPane();
 		jtp.add("QQºÅÂë", jp2);
 		jtp.add("ÊÖ»úºÅÂë", jp3);
